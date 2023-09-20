@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP, OOP and REACT**
 
-- 💬 Ask me about **javascript react**
+- 💬 Ask me about **javascript react and CSS Animation**
 
 - 📫 How to reach me **damyridwan@gmail.com**
 
