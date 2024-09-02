@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingdamie&label=Profile%20views&color=0e75b6&style=flat" alt="kingdamie" /> </p>
 
-- 🔭 I’m currently working on **a cooperative webpage and developing a website where gamers can buy accounts.**
+- 🔭 I’m currently working on **a cooperative webpage using react js**
 
 - 👯 **I'm open to collaborating on interesting projects**
 
