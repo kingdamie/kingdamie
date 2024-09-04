@@ -7,7 +7,11 @@
 
 - 👯 **I'm open to collaborating on interesting projects**
 
+- 🌱 **I’m currently learning NextJS, React Native**
+
 - 📫 How to reach me **You can contact me at damyridwan@gmail.com**
+
+- 👩🏻‍🎓 **Studing Computer Science at Afe Babalola University, Nigeria**
 
 - ⚡ Fun fact **I get so caught up in coding sometimes that I completely lose track of time. I'll start in the afternoon and suddenly realize it's way past midnight—coding just pulls me in like that!**
 
