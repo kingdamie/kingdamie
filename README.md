@@ -7,7 +7,7 @@
 
 - 👯 **I'm open to collaborating on interesting projects**
 
-- 🌱 **I’m currently learning Typescript, React Native**
+- 🌱 **I’m currently learning Nextjs using Typescript, React Native**
 
 - 📫 How to reach me **You can contact me at damyridwan@gmail.com**
 
