@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I get so caught up in coding sometimes that I completely lose track of time. I'll start in the afternoon and suddenly realize it's way past midnight—coding just pulls me in like that!**
 
+- 🌐 Portfolio: **https://my-portfolio-eight-rho-88.vercel.app/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/damilare-ridwan-a41886271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damilare-ridwan-a41886271" height="30" width="40" /></a>
