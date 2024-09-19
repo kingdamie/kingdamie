@@ -28,5 +28,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingdamie&show_icons=true&locale=en" alt="kingdamie" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingdamie&show_icons=true&locale=en&layout=compact" alt="kingdamie" /></p>
 
