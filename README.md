@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingdamie&label=Profile%20views&color=0e75b6&style=flat" alt="kingdamie" /> </p>
 
-- 🔭 I’m currently working on **a cooperative webpage using react js** and **Gift Card Exchange Platforms**
 
 - 👯 **I'm open to collaborating on interesting projects**
 
-- 🌱 **I’m currently learning Nextjs using Typescript, React Native**
 
 - 📫 How to reach me **You can contact me at damyridwan@gmail.com**
 
