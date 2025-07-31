@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **You can contact me at damyridwan@gmail.com**
 
-- 👩🏻‍🎓 **Studing Computer Science at Afe Babalola University, Nigeria**
+- 👩🏻‍🎓 **B.Sc. in Computer Science, Afe Babalola University, Nigeria (Completed)**
 
 - ⚡ Fun fact **I get so caught up in coding sometimes that I completely lose track of time. I'll start in the afternoon and suddenly realize it's way past midnight—coding just pulls me in like that!**
 
