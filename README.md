@@ -20,7 +20,7 @@
 <p>A **Next.js admin dashboard** featuring a **real-time theme customizer**.  
 Users can personalize the **sidebar, header, and primary brand colors** for a dynamic and modern UI experience.</p>
 Live Demo: 
-**[View Project](https://nextjs-customizable-dashboard.vercel.app/)**
+**https://nextjs-customizable-dashboard.vercel.app**
 
 
 <h3 align="left">Connect with me:</h3>
