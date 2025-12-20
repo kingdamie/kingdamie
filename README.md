@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Olaniyan Damilare (King Damie)</h1>
 
 <h2 align="center">
-React.js • Next.js • React Native (Expo) • TypeScript • JavaScript • Node.js • Express.js • PHP • MongoDB • MySQL • Tailwind CSS • REST APIs • Git & GitHub
+React.js • Next.js • React Native (Expo) • TypeScript • JavaScript • Node.js • Express.js • PHP • MongoDB • MySQL • Tailwind CSS • REST APIs • Git & GitHub </br></br>
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingdamie&label=Profile%20views&color=0e75b6&style=flat" alt="kingdamie" /> </p>
 </h2>
