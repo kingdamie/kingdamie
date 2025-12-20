@@ -1,9 +1,12 @@
-<h1 align="center">👋 Hi, I'm Olaniyan Damilare Ridwan (King Damie)</h1>
+<h1 align="center">👋 Hi, I'm Olaniyan Damilare (King Damie)</h1>
 
+<h2 align="center">
+React.js • Next.js • React Native (Expo) • TypeScript • JavaScript • Node.js • Express.js • PHP • MongoDB • MySQL • Tailwind CSS • REST APIs • Git & GitHub
+</h2>
 
-<h3 align="center">
-  I’m a **Frontend Engineer and Software Developer** passionate about building clean, reliable, and user-friendly web and mobile applications. I enjoy turning ideas and designs into real products that solve problems, scale well, and feel good to use.
-</h3>
+<!-- <h3 align="center">
+  I’m a Frontend Engineer and Software Developer passionate about building clean, reliable, and user-friendly web and mobile applications. I enjoy turning ideas and designs into real products that solve problems, scale well, and feel good to use.
+</h3> -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingdamie&label=Profile%20views&color=0e75b6&style=flat" alt="kingdamie" /> </p>
 
@@ -15,9 +18,6 @@
 
 👉 In simple terms: *I make apps work the way users expect them to.*
 
-<h2 align="center">
-React.js • Next.js • React Native (Expo) • TypeScript • JavaScript • Node.js • Express.js • PHP • MongoDB • MySQL • Tailwind CSS • REST APIs • Git & GitHub
-</h2>
 
 ## 🎓 Education & Research
 **B.Sc. Computer Science** — Afe Babalola University, Nigeria  
@@ -25,14 +25,10 @@ Research: Machine Learning for Agricultural Food Price Prediction
 
 
 
-- 👯 **I'm open to collaborating on interesting projects**
 
+📫 Contact: **damyridwan@gmail.com**
 
-- 📫 How to reach me **You can contact me at damyridwan@gmail.com**
-
-- 👩🏻‍🎓 **B.Sc. in Computer Science, Afe Babalola University, Nigeria (Completed)**
-
-- ⚡ Fun fact **I get so caught up in coding sometimes that I completely lose track of time. I'll start in the afternoon and suddenly realize it's way past midnight—coding just pulls me in like that!**
+⚡ Fun fact: I lose track of time when coding. Movie lover and proud Marvel fan.
 
 - 🌐 Portfolio: **https://my-portfolio-eight-rho-88.vercel.app/**
 
