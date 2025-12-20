@@ -1,7 +1,28 @@
-<h1 align="center">Hi 👋, I'm Olaniyan Damilare</h1>
-<h3 align="center">A passionate full stack developer from Nigeria</h3>
+<h1 align="center">👋 Hi, I'm Olaniyan Damilare Ridwan (King Damie)</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingdamie&label=Profile%20views&color=0e75b6&style=flat" alt="kingdamie" /> </p>
+
+<h3 align="center">
+  I’m a **Frontend Engineer and Software Developer** passionate about building clean, reliable, and user-friendly web and mobile applications. I enjoy turning ideas and designs into real products that solve problems, scale well, and feel good to use.
+</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kingdamie&label=Profile%20views&color=0e75b6&style=flat" alt="kingdamie" /> </p>
+
+## 🧠 What I Do (For Everyone)
+- I build **web and mobile applications**
+- I transform **UI designs into working products**
+- I connect applications to **backend APIs**
+- I collaborate with teams to ship features **on time and correctly**
+
+👉 In simple terms: *I make apps work the way users expect them to.*
+
+<h2 align="center">
+React.js • Next.js • React Native (Expo) • TypeScript • JavaScript • Node.js • Express.js • PHP • MongoDB • MySQL • Tailwind CSS • REST APIs • Git & GitHub
+</h2>
+
+## 🎓 Education & Research
+**B.Sc. Computer Science** — Afe Babalola University, Nigeria  
+Research: Machine Learning for Agricultural Food Price Prediction
+
 
 
 - 👯 **I'm open to collaborating on interesting projects**
