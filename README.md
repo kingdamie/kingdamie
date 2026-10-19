@@ -28,14 +28,6 @@ I'm a frontend developer based in Ibadan, Nigeria, with 3+ years of experience b
 
 **Mobile:** React Native · Expo &nbsp;|&nbsp; **State:** Redux · React Query · Context API &nbsp;|&nbsp; **Testing:** Jest · React Testing Library &nbsp;|&nbsp; **Payments:** Paystack · Stripe
 
-### Recent work
-
-| Project | What I did | Stack |
-|---|---|---|
-| **[Conzo](https://conzo.africa)** | Admin dashboard, marketing website and email templates for a fintech app | Next.js, TypeScript |
-| **Eskedigo** | Mobile app for reservations and QR payments | React Native, Expo, TypeScript |
-| **[Compiler](https://usecomplier.com)** | Dashboards for a compliance management platform | React, TypeScript |
-| **[Southern Atlantic Hotel](https://southernatlantichotelsandapartments.com)** | Hotel booking platform with payments and room availability | Next.js |
 
 ### Featured project
 
