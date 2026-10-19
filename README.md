@@ -1,57 +1,52 @@
-<h1 align="center">👋 Hi, I'm Olaniyan Damilare (King Damie)</h1>
+<h1 align="center">Hi, I'm Olaniyan Damilare 👋</h1>
+<h3 align="center">Frontend Developer · React · Next.js · React Native · TypeScript</h3>
 
-<h2 align="center">
-React.js • Next.js • React Native (Expo) • TypeScript • JavaScript • Node.js • Express.js • PHP • MongoDB • MySQL • Tailwind CSS • REST APIs • Git & GitHub </br></br>
-
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=kingdamie&label=Profile%20views&color=0e75b6&style=flat" alt="kingdamie" /> </p>
-</h2>
-
-<!-- <h3 align="center">
-  I’m a Frontend Engineer and Software Developer passionate about building clean, reliable, and user-friendly web and mobile applications. I enjoy turning ideas and designs into real products that solve problems, scale well, and feel good to use.
-</h3> -->
-
-
-
-## 🧠 What I Do (For Everyone)
-- I build **web and mobile applications**
-- I transform **UI designs into working products**
-- I connect applications to **backend APIs**
-- I collaborate with teams to ship features **on time and correctly**
-
-👉 In simple terms: *I make apps work the way users expect them to.*
-
-
-## 🎓 Education & Research
-**B.Sc. Computer Science** — Afe Babalola University, Nigeria  
-Research: Machine Learning for Agricultural Food Price Prediction
-
-
-
-
-📫 Contact: **damyridwan@gmail.com**
-
-⚡ Fun fact: I lose track of time when coding. Movie lover and proud Marvel fan.
-
-- 🌐 Portfolio: **https://my-portfolio-eight-rho-88.vercel.app/**
-
-<h3>Projects</h3>
-<h4>Next.js Customizable Dashboard</h4>
-<p>A Next.js admin dashboard featuring a real-time theme customizer.  
-Users can personalize the sidebar, header, and primary brand colors for a dynamic and modern UI experience.</p>
-Live Demo: 
-https://nextjs-customizable-dashboard.vercel.app
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/damilare-ridwan-a41886271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damilare-ridwan-a41886271" height="30" width="40" /></a>
-<a href="https://instagram.com/king_damie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="king_damie" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://my-portfolio-eight-rho-88.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/damilare-olaniyan-a41886271"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:damyridwan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### About me
 
+I'm a frontend developer based in Ibadan, Nigeria, with 3+ years of experience building web and mobile apps that real people use every day. I turn designs into fast, responsive products and connect them cleanly to backend APIs.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingdamie&show_icons=true&locale=en&layout=compact" alt="kingdamie" /></p>
+- 💳 Recently built the **admin dashboard, website and email templates** for a crypto and gift card fintech platform
+- 📱 Shipped a **React Native (Expo) reservations and payments app** with QR-based Scan & Pay
+- 🏨 Delivered production work including **hotel booking platforms, school management systems and compliance dashboards**
+- 🤝 Comfortable on the backend too (Node.js/Express, PHP), so I work well with backend teams
 
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,sass&theme=dark" alt="Frontend" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,firebase,git,github,vercel,figma,postman&theme=dark" alt="Backend and tools" />
+</p>
+
+**Mobile:** React Native · Expo &nbsp;|&nbsp; **State:** Redux · React Query · Context API &nbsp;|&nbsp; **Testing:** Jest · React Testing Library &nbsp;|&nbsp; **Payments:** Paystack · Stripe
+
+### Recent work
+
+| Project | What I did | Stack |
+|---|---|---|
+| **[Conzo](https://conzo.africa)** | Admin dashboard, marketing website and email templates for a fintech app | Next.js, TypeScript |
+| **Eskedigo** | Mobile app for reservations and QR payments | React Native, Expo, TypeScript |
+| **[Compiler](https://usecomplier.com)** | Dashboards for a compliance management platform | React, TypeScript |
+| **[Southern Atlantic Hotel](https://southernatlantichotelsandapartments.com)** | Hotel booking platform with payments and room availability | Next.js |
+
+### Featured project
+
+**[Next.js Customizable Dashboard](https://nextjs-customizable-dashboard.vercel.app)**
+An admin dashboard with a real-time theme customizer: users can change the sidebar, header and brand colours on the fly.
+
+### Education
+
+**B.Sc. Computer Science**, Afe Babalola University (2021–2025), Second Class Upper
+Final-year research: machine learning for agricultural food price prediction
+
+---
+
+<p align="center"><i>Open to frontend and mobile roles, remote or hybrid. Let's build something useful.</i></p>
