@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Olaniyan Damilare 👋</h1>
-<h3 align="center">Software Developer · Web · Mobile · Backend</h3>
+<p align="center"><b>Software Developer · Web · Mobile · Backend</b> — Ibadan, Nigeria</p>
 
 <p align="center">
   <a href="https://my-portfolio-eight-rho-88.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -7,59 +7,24 @@
   <a href="mailto:damyridwan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+I build web apps, cross-platform mobile apps, and the APIs behind them, mostly for fintech, payments and booking products.
 
-### About me
+### 🚀 Recent work
+- 💳 **Fintech dashboard & website** for a crypto and gift card platform (users, trades, wallets, role-based access)
+- 📲 **Reservations & payments mobile app** (React Native/Expo) with QR-based Scan & Pay
+- 🏨 **Hotel booking platform** (Next.js) with payment integration and room availability tracking
 
-I'm a **Software Developer based in Ibadan, Nigeria**, specializing in **web development, mobile development, and backend engineering**. I build responsive web applications, cross-platform mobile apps, and backend systems that connect products to reliable APIs and services.
-
-My main experience spans modern frontend development with **React and Next.js**, mobile development with **React Native and Expo**, and backend development with **Python/Django and PHP/Laravel**.
-
-- 🌐 Build modern, scalable web applications with **React, Next.js, TypeScript and Tailwind CSS**
-- 📱 Develop cross-platform mobile applications using **React Native and Expo**
-- ⚙️ Build backend APIs and services with **Python/Django, Django REST Framework and PHP/Laravel**
-- 💳 Built **admin dashboards, websites and email templates** for a crypto and gift card fintech platform
-- 📲 Shipped a **React Native (Expo) reservations and payments app** with QR-based Scan & Pay
-- 🏨 Delivered production work including **hotel booking platforms, school management systems and compliance dashboards**
-- 🔌 Experienced in integrating REST APIs, authentication, payments and third-party services
-- 🤝 Comfortable working across the full development stack and collaborating with designers, frontend and backend teams
-
-### Tech stack
-
+### 🛠 Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,sass&theme=dark" alt="Web Development" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,nodejs,express,mysql,mongodb,postgresql,firebase&theme=dark" alt="Backend Development" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,git,github,vercel,figma,postman&theme=dark" alt="Tools and Mobile" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,python,django,php,laravel,nodejs,mysql,postgresql,mongodb,firebase,git,figma&theme=dark&perline=8" alt="Tech stack" />
 </p>
 
-**Mobile:** React Native · Expo
+**Also:** React Native · Expo · Django REST Framework · Redux · React Query · Paystack · Stripe · Jest
 
-**Backend:** Python · Django · Django REST Framework · PHP · Laravel · Node.js · Express
+### ⭐ Featured project
+**[Next.js Customizable Dashboard](https://nextjs-customizable-dashboard.vercel.app)**: an admin dashboard where users change sidebar, header and brand colours live.
 
-**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
+### 🎓 Education
+B.Sc. Computer Science, Afe Babalola University (2021–2025), Second Class Upper
 
-**State Management:** Redux · React Query · Context API
-
-**Databases:** PostgreSQL · MySQL · MongoDB · Firebase
-
-**Testing:** Jest · React Testing Library
-
-**Payments & Integrations:** Paystack · Stripe · REST APIs
-
-### Featured project
-
-**[Next.js Customizable Dashboard](https://nextjs-customizable-dashboard.vercel.app)**
-
-An admin dashboard with a real-time theme customizer where users can change the sidebar, header and brand colours on the fly.
-
-### Education
-
-**B.Sc. Computer Science**, Afe Babalola University (2021–2025), Second Class Upper
-
-Final-year research: Machine learning for agricultural food price prediction
-
----
-
-<p align="center"><i>Open to software development roles across web, mobile and backend engineering. Let's build something useful.</i></p>
+<p align="center"><i>Open to web, mobile and backend roles. Let's build something useful.</i></p>
